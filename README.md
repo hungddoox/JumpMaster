@@ -1,1 +1,1 @@
-# MarioJump
+# JumpMaster
